@@ -1,0 +1,100 @@
+[
+  {
+    "id": "boar",
+    "file": "boar.glb",
+    "bytes": 2571448,
+    "triangles": 23999,
+    "animations": [
+      "Boar_Dead",
+      "Boar_Eat_End",
+      "Boar_Eat_Loop",
+      "Boar_Eat_Start",
+      "Boar_Idle",
+      "Boar_Run",
+      "Boar_Shot_Death"
+    ],
+    "bones": 26,
+    "embeddedImages": 3
+  },
+  {
+    "id": "deer",
+    "file": "deer.glb",
+    "bytes": 2170192,
+    "triangles": 23999,
+    "animations": [
+      "Deer_Dead",
+      "Deer_Eat_End",
+      "Deer_Eat_Loop",
+      "Deer_Eat_Start",
+      "Deer_Idle",
+      "Deer_Run",
+      "Deer_Shot_Death"
+    ],
+    "bones": 26,
+    "embeddedImages": 3
+  },
+  {
+    "id": "ghost",
+    "file": "ghost.glb",
+    "bytes": 3007632,
+    "triangles": 23999,
+    "animations": [
+      "Shaman_GrabNeck_Lift",
+      "Shaman_Idle_Haunted",
+      "Shaman_Run_Frenzy",
+      "Shaman_Walk_LimpArms"
+    ],
+    "bones": 22,
+    "embeddedImages": 3
+  },
+  {
+    "id": "machete",
+    "file": "machete.glb",
+    "bytes": 2359040,
+    "triangles": 31998,
+    "animations": [],
+    "bones": 0,
+    "embeddedImages": 6
+  },
+  {
+    "id": "rabbit",
+    "file": "rabbit.glb",
+    "bytes": 2347172,
+    "triangles": 23999,
+    "animations": [
+      "Rabbit_Dead",
+      "Rabbit_Eat_End",
+      "Rabbit_Eat_Loop",
+      "Rabbit_Eat_Start",
+      "Rabbit_Idle",
+      "Rabbit_Run",
+      "Rabbit_Shot_Death"
+    ],
+    "bones": 27,
+    "embeddedImages": 3
+  },
+  {
+    "id": "shotgun",
+    "file": "shotgun.glb",
+    "bytes": 95928,
+    "triangles": 2788,
+    "animations": [],
+    "bones": 0,
+    "embeddedImages": 0
+  },
+  {
+    "id": "tiger",
+    "file": "tiger.glb",
+    "bytes": 10390552,
+    "triangles": 150000,
+    "animations": [
+      "Tiger_Walk",
+      "Tiger_Run",
+      "Tiger_Bite",
+      "Tiger_Pounce",
+      "Tiger_IdleLookSniff"
+    ],
+    "bones": 25,
+    "embeddedImages": 3
+  }
+]
